@@ -1,5 +1,6 @@
 # Canva
-This repo contains the HTML,CSS for the  website Canva Login page
+This repo contains the HTML,CSS for the  website Canva Login page:
+![image](https://github.com/Dhileepguru/Canva/assets/141471079/03fd6add-5a9c-459c-a1a4-b17a1e0c7023)
 
 Technologies Used
 HTML5
