@@ -41,6 +41,7 @@ a{
 }
 .nav_logo
 {
+    
     display: inline-flex; 
     margin-top: 3px;
     column-gap: 25px;
